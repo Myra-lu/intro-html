@@ -1,3 +1,13 @@
+diff --git a/background.jpg b/background.jpg
+new file mode 100644
+index 0000000..f0e61ef
+Binary files /dev/null and b/background.jpg differ
+diff --git a/style.css b/style.css
+new file mode 100644
+index 0000000..8238da5
+--- /dev/null
++++ b/style.css
+@@ -0,0 +1,118 @@
 @import url('https://fonts.googleapis.com/css?family=Permanent+Marker|Playfair+Display:900|Open+Sans');
 
 body {
